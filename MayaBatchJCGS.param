@@ -13,7 +13,7 @@ Category=Render Executables
 CategoryOrder=0
 Index=1
 Label=Maya 8 Render Executable
-Default=Y:\pub\Tools\Python26_amd64\python.exe
+Default=Y:\tool\MISC\Python2710_amd64_vs2010\python.exe
 Description=The path to the Maya 8 executable file used for rendering. Enter alternative paths on separate lines.
 
 [RenderExecutable8_5]
@@ -22,7 +22,7 @@ Category=Render Executables
 CategoryOrder=0
 Index=2
 Label=Maya 8.5 Render Executable
-Default=Y:\pub\Tools\Python26_amd64\python.exe
+Default=Y:\tool\MISC\Python2710_amd64_vs2010\python.exe
 Description=The path to the Maya 8.5 executable file used for rendering. Enter alternative paths on separate lines.
 
 [RenderExecutable2008_0]
@@ -31,7 +31,7 @@ Category=Render Executables
 CategoryOrder=0
 Index=3
 Label=Maya 2008 Render Executable
-Default=Y:\pub\Tools\Python26_amd64\python.exe
+Default=Y:\tool\MISC\Python2710_amd64_vs2010\python.exe
 Description=The path to the Maya 2008 executable file used for rendering. Enter alternative paths on separate lines.
 
 [RenderExecutable2009_0]
@@ -40,7 +40,7 @@ Category=Render Executables
 CategoryOrder=0
 Index=4
 Label=Maya 2009 Render Executable
-Default=Y:\pub\Tools\Python26_amd64\python.exe
+Default=Y:\tool\MISC\Python2710_amd64_vs2010\python.exe
 Description=The path to the Maya 2009 executable file used for rendering. Enter alternative paths on separate lines.
 
 [RenderExecutable2010_0]
@@ -49,7 +49,7 @@ Category=Render Executables
 CategoryOrder=0
 Index=5
 Label=Maya 2010 Render Executable
-Default=Y:\pub\Tools\Python26_amd64\python.exe
+Default=Y:\tool\MISC\Python2710_amd64_vs2010\python.exe
 Description=The path to the Maya 2010 executable file used for rendering. Enter alternative paths on separate lines.
 
 [RenderExecutable2011_0]
@@ -58,7 +58,7 @@ Category=Render Executables
 CategoryOrder=0
 Index=6
 Label=Maya 2011 Render Executable
-Default=Y:\pub\Tools\Python26_amd64\python.exe
+Default=Y:\tool\MISC\Python2710_amd64_vs2010\python.exe
 Description=The path to the Maya 2011 executable file used for rendering. Enter alternative paths on separate lines.
 
 [RenderExecutable2012_0]
@@ -67,7 +67,7 @@ Category=Render Executables
 CategoryOrder=0
 Index=7
 Label=Maya 2012 Render Executable
-Default=Y:\pub\Tools\Python26_amd64\python.exe
+Default=Y:\tool\MISC\Python2710_amd64_vs2010\python.exe
 Description=The path to the Maya 2012 executable file used for rendering. Enter alternative paths on separate lines.
 
 [RenderExecutable2013_0]
@@ -76,7 +76,7 @@ Category=Render Executables
 CategoryOrder=0
 Index=8
 Label=Maya 2013 Render Executable
-Default=Y:\pub\Tools\Python26_amd64\python.exe
+Default=Y:\tool\MISC\Python2710_amd64_vs2010\python.exe
 Description=The path to the Maya 2013 executable file used for rendering. Enter alternative paths on separate lines.
 
 [RenderExecutable2014_0]
@@ -85,7 +85,7 @@ Category=Render Executables
 CategoryOrder=0
 Index=9
 Label=Maya 2014 Render Executable
-Default=Y:\pub\Tools\Python26_amd64\python.exe
+Default=Y:\tool\MISC\Python2710_amd64_vs2010\python.exe
 Description=The path to the Maya 2014 executable file used for rendering. Enter alternative paths on separate lines.
 
 [RenderExecutable2015_0]
